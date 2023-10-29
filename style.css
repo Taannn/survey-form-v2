@@ -18,6 +18,9 @@ img, video, canvas, picture, svg {
   max-width: 100%;
   display: block;
 }
+input, select, textarea, button {
+  font: inherit;
+}
 p, h1, h2, h3 ,h4 ,h5 h6 {
   overflow-wrap: break-word;
 }
